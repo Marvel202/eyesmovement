@@ -1,7 +1,7 @@
 # EYE Movement demo
 
 Description:
-The eyes will follow your mouse pointer
+Roll the eyes with your your mouse pointer. This is pure HTML, JS and CSS written app.
 
 ## How to run
 
